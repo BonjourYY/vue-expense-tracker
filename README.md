@@ -5,53 +5,21 @@
 
 <!-- Title + Des -->
 <div align='center'>
-  <a href="#">
+  <a href="./vue-expense-tracker">
     <img src="/readme/logo.png" alt="Logo" width="80" />
   </a>
-  <h3 class="title">Vue-Expense-Tracker</h3>
+  <p class="title">Vue-Expense-Tracker</p>
   <p class="description">
     <p>一款用来记录收入支出的记账应用</p>
-    <a href="#"><strong>Explore the docs »</strong></a>
+    <a href="./vue-expense-tracker"><strong>Explore the docs »</strong></a>
     <br>
-    <a href="#">View Demo</a>
+    <a href="./vue-expense-tracker">View Demo</a>
     ·
-    <a href="/issues">Report Bug</a>
+    <a href="./vue-expense-tracker/issues">Report Bug</a>
     ·
-    <a href="/issues">Request Feature</a>
+    <a href="./vue-expense-tracker/issues">Request Feature</a>
   </p>
 </div>
-
-<!-- Table of Contents -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li>
-          <a href="#built-with">Built With</a>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li>
-          <a href="#prerequisites">Prerequisites</a>
-        </li>
-        <li>
-          <a href="#installation">Installation</a>
-        </li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 ## About The Project
 
@@ -91,7 +59,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
-_For more examples, please refer to the [Documentation](/)_
+_For more examples, please refer to the [Documentation](./vue-expense-tracker)_
 
 ## Roadmap
 
@@ -99,7 +67,7 @@ _For more examples, please refer to the [Documentation](/)_
 - [ ] Dark Mode
 - [ ] Visual display
 
-See the [open issues](/issues) for a full list of proposed features (and known issues).
+See the [open issues](./vue-expense-tracker/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
