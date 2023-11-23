@@ -5,19 +5,19 @@
 
 <!-- Title + Des -->
 <div align='center'>
-  <a href="./vue-expense-tracker">
+  <a href="https://github.com/BonjourYY/vue-expense-tracker">
     <img src="/readme/logo.png" alt="Logo" width="80" />
   </a>
   <p class="title">Vue-Expense-Tracker</p>
   <p class="description">
     <p>一款用来记录收入支出的记账应用</p>
-    <a href="./vue-expense-tracker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BonjourYY/vue-expense-tracker"><strong>Explore the docs »</strong></a>
     <br>
-    <a href="./vue-expense-tracker">View Demo</a>
+    <a href="https://github.com/BonjourYY/vue-expense-tracker">View Demo</a>
     ·
-    <a href="./vue-expense-tracker/issues">Report Bug</a>
+    <a href="https://github.com/BonjourYY/vue-expense-tracker/issues">Report Bug</a>
     ·
-    <a href="./vue-expense-tracker/issues">Request Feature</a>
+    <a href="https://github.com/BonjourYY/vue-expense-tracker/issues">Request Feature</a>
   </p>
 </div>
 
@@ -59,7 +59,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
-_For more examples, please refer to the [Documentation](./vue-expense-tracker)_
+_For more examples, please refer to the [Documentation](https://github.com/BonjourYY/vue-expense-tracker)_
 
 ## Roadmap
 
@@ -67,7 +67,7 @@ _For more examples, please refer to the [Documentation](./vue-expense-tracker)_
 - [ ] Dark Mode
 - [ ] Visual display
 
-See the [open issues](./vue-expense-tracker/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/BonjourYY/vue-expense-tracker/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email: fqymtu@gmail.com
 
-Project Link: [https://github.com/BonjourYY/git-demo](/)
+Project Link: [https://github.com/BonjourYY/vue-expense-tracker](https://github.com/BonjourYY/vue-expense-tracker)
 
 ## Acknowledgments
 
