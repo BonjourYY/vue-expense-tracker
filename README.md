@@ -4,16 +4,16 @@
 [![Issues][issues-shield]][issues-url]
 
 <!-- Title + Des -->
-<div style="text-align:center">
-  <a href="/">
+<div align='center'>
+  <a href="#">
     <img src="/readme/logo.png" alt="Logo" width="80" />
   </a>
   <h3 class="title">Vue-Expense-Tracker</h3>
   <p class="description">
     <p>一款用来记录收入支出的记账应用</p>
-    <a href="/"><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>Explore the docs »</strong></a>
     <br>
-    <a href="/">View Demo</a>
+    <a href="#">View Demo</a>
     ·
     <a href="/issues">Report Bug</a>
     ·
